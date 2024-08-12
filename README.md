@@ -7,6 +7,7 @@
 
 ## Table of Contents
 - [Python programs description](#Python)
+- [Data set](#Data)
 - [Installation and Usage](#Installation)
 - [Contributing](#contributing)
 - [License](#license)
@@ -24,7 +25,9 @@
 	
 > ### Evaluar_t_Numba.ipynb: Program that contains a GPU parallel implementation of K-Centres algorithm using Numba libaries .
 	
-
+## Data set
+> ### Yataros1.csv: The CSV file contains 3012 objects, each with 40 acoustic indices. The number 3012 represents the total files, while 40 corresponds to the number of columns in the dataset.
+By applying the K-Centres algorithm to the dataset Yataros1.csv. We aim to identify the most representative acoustic indices of the Yataros forest. Although this aspect is not the core focus of the article, the algorithm enables us to select K centers and subsequently determine which indices are most representative. Algorithm accelerations allow us to perform multiple executions in a fast elapsed time, enabling data analysis.
 
 ## Installation and Usage
 
