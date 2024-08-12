@@ -33,9 +33,14 @@ By applying the K-Centres algorithm to the dataset Yataros1.csv. We aim to ident
 
 The following files are developed in python using a google colab notebook.
 
+
 > for PyCUDA: pip install pycuda
+> for Numba: pip install numba
+> for Cupy: pip install cupy-cuda11x
 
 ## Contributing
+This site presents the implementation of four distinct parallelization strategies for the K-Centres algorithm parallelized in python with differents libraries for CPU (multithreading) and GPU (Cupy, Numba and PyCUDA). 
+We evaluate their performance in terms of execution time while also considering some qualitative aspects, such as the complexity of each implementation and ease of use on many-core and multi-core architectures.
 
 ## License
 
