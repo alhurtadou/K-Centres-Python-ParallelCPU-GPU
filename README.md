@@ -3,7 +3,7 @@
 >
 >The site shows different implementation in python using: multithreading libraries for CPU and differents python libraries for execute K-Centres in GPU.
 >
->These programs was develop by Santiago Monroy.
+>These programs was develop by Santiago Monroy Heredia ().
 
 ## Table of Contents
 - [Python programs description](#Python)
