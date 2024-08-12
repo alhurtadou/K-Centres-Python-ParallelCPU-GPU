@@ -29,6 +29,8 @@
 
 The following files are developed in python using a google colab notebook.
 
+> for PyCUDA: pip install pycuda
+
 ## Contributing
 
 ## License
