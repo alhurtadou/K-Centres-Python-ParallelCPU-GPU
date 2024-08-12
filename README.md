@@ -43,4 +43,5 @@ This site presents the implementation of four distinct parallelization strategie
 We evaluate their performance in terms of execution time while also considering some qualitative aspects, such as the complexity of each implementation and ease of use on many-core and multi-core architectures.
 
 ## License
+Santiago Monroy Heredia © 2024
 
