@@ -18,12 +18,13 @@
 
 > ### Evaluar_t_cpuParalelo.ipynb: Program that contains a multithreading version of K-Centres algorithm in Python.
 
+> ### Evaluar_t_PyCUDA.ipynb: Program that contains a GPU parallel implementation of K-Centres algorithm using PyCUDA libaries.
+
 > ### Evaluar_t_CUPY.ipynb: Program that contains a GPU parallel implementation of K-Centres algorithm using CUPY libaries.
 	
 > ### Evaluar_t_Numba.ipynb: Program that contains a GPU parallel implementation of K-Centres algorithm using Numba libaries .
 	
-> ### Evaluar_t_PyCUDA.ipynb: Program that contains a GPU parallel implementation of K-Centres algorithm using PyCUDA libaries.
-	
+
 
 ## Installation and Usage
 
